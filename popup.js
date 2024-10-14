@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
           console.log("Opening:", newURL);
         } else if (apiType === "virustotal") {
           const apiKey =
-            "b0c92c80553bf2e87df7e8259625f5932ed1ae06ee92e1b1c9ec7d096849b518"; // Replace with your VirusTotal API key
+            // "b0c92c80553bf2e87df7e8259625f5932ed1ae06ee92e1b1c9ec7d096849b518"; // Replace with your VirusTotal API key
           const newURL = `https://www.virustotal.com/vtapi/v2/domain/report?apikey=${apiKey}&domain=${subdomain}`;
           chrome.tabs.create({ url: newURL });
           console.log("Opening:", newURL);
