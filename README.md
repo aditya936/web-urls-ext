@@ -6,6 +6,8 @@
 # 1- Go To extensions 
 # 2- click Manage extensions
 # 3- Load unpacked
+<img width="200" alt="extension" src="https://github.com/user-attachments/assets/fbc74837-03fc-4391-9f37-dc5e8e753da2">
+
 
 -----------------------
 # Thanks to <br>
