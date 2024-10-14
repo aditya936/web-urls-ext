@@ -12,6 +12,25 @@
 -----------------------
 # Thanks to <br>
 [@M7moud_mk99](https://x.com/M7moud_mk99/status/1837482519031152997)  <br> [@0xHussein](https://x.com/0xHussein/status/1702984356271190315)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------
 inspired by the last recon video for 
 @GodfatherOrwa
@@ -26,3 +45,6 @@ go to  chrome://extensions/
 Load unpacked
 
 #bugbountytips
+------------------
+
+ZIP and extracted file both here clone any one zip or files.🤞 
