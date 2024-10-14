@@ -32,8 +32,8 @@
 
 
 ----------------------------
-inspired by the last recon video for 
-@GodfatherOrwa
+# Tweet text from@M7moud_mk99  <br>
+inspired by the last recon video for @GodfatherOrwa
  - https://youtube.com/watch?v=5RyODeBjar4&t=217s
 I added some useful API for this extension, The author: 
 @0xHussein
@@ -44,7 +44,7 @@ I added some useful API for this extension, The author:
 go to  chrome://extensions/
 Load unpacked
 
-#bugbountytips
+#bugbountytips```
 ------------------
 
 ZIP and extracted file both here clone any one zip or files.🤞 
