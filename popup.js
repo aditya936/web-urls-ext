@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
           const endpoint = useFullFilters
             ? `hostname/${subdomain}/url_list`
             : `domain/${subdomain}/url_list`;
-          for (let page = 1; page <= 20; page++) {
+          for (let page = 1; page <= 4; page++) {
             const newURL = `https://otx.alienvault.com/api/v1/indicators/${endpoint}?limit=500&page=${page}`;
             chrome.tabs.create({ url: newURL });
             console.log("Opening:", newURL);
